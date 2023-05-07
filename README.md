@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![SecurIT](https://github-readme-stats.vercel.app/api?username=securit&show_icons=true&count_private=true&theme=radical)
+![SecurIT](https://github-readme-stats.vercel.app/api?username=securit&show_icons=true&count_private=true&theme=react)
 )
 
 <!--
