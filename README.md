@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![SecurIT](https://github-readme-stats.vercel.app/api?username=securit&show_icons=true&count_private=true)
+![SecurIT](https://github-readme-stats.vercel.app/api?username=securit&show_icons=true&count_private=true&theme=radical)
+)
 
 <!--
 **securit/securit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
